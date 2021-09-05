@@ -1,0 +1,24 @@
+{
+  "name": "levelup",
+  "version": "1.0.0",
+  "description": "test work for teamlead co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonChanin/LevelUp.git"
+  },
+  "keywords": [
+    "testWork",
+    "HTML",
+    "CSS"
+  ],
+  "author": "AVH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonChanin/LevelUp/issues"
+  },
+  "homepage": "https://github.com/AntonChanin/LevelUp#readme"
+}
